@@ -6,3 +6,5 @@ GitHub repo for our group's final project assignment in ASDS 5305 - Deep Learnin
 - Kyle De'Souza
 - Vinay Dussa
 
+**Instructor:**
+Dr. Pedro Maia
