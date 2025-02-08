@@ -6,7 +6,7 @@ Dr. Pedro Maia
 
 **Group Members:**
 - Ajay Kanumala
-- Kyle De'Souza
+- Kyle D'Souza
 - Vinay Dussa
 
 Datasets of Interest:
